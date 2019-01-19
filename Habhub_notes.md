@@ -10,7 +10,7 @@ NOTE: Habhub can only perform predictions of up to 180 Hours into the future. Th
 
 ## 2.1 Unit conversion
 
-![](assets/01_ long_lat.jpg)
+![](assets/01_long_lat.jpg)
 
 Habhub uses the decimal system for its longitude and latitude. Hence the lat and long must be converted from the Northings and Eastings format to a signed Lat and Long format. It is important to know the difference between Lat and Long (Figure 1 retrieved from https://keydifferences.com/difference-between-latitude-and-longitude.html)
 
