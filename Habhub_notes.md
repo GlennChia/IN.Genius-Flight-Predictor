@@ -46,7 +46,7 @@ Note: Timing Considerations (The time is in UTC).
 
 - Singapore is 8 hours ahead of UTC. 
 - Alice Springs is 9.5 hours ahead of UTC timing 
-- Hence, if the launch at Alice Springs is 0600 on 24 Jan 2019, the time we set on Habhub is 15:30 on 24 Jan 2019
+- Hence, if the launch at Alice Springs is 0600 on 24 Jan 2019, the time we set on Habhub is 20:30 on 23 Jan 2019
 
 ![](assets/06_2D_flight_path.PNG)
 
