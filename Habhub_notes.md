@@ -80,8 +80,8 @@ Steps
 6. By default, the slider for altitude is set to "Surface". Seeing the pattern tallies with the flight path since the balloon heads South West first 
 
 ![](assets/13_windy_surface.png)
-
 ![](assets/14_windy_surface.png)
+
 7. We also know that after the burst it heads roughly North East. However, Windy cannot verify this because its maximum altitude is 13.5 km whereas the burst altitude is 20km. 
 
 # 4. 3D flight path  - Google Earth
