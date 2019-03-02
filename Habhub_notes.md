@@ -77,7 +77,8 @@ Steps
    ![](assets/11_windy_allambie.PNG)
 5. Then set the date to the date of the flight prediction and slide the bar to get the time.
    ![](assets/12_windy_date.PNG)
-6. By default, the slider for altitude is set to "Surface". Seeing the pattern tallies with the flight path since the balloon heads South West first ![](assets/13_windy_surface.png)![](assets/14_windy_surface.png)
+6. By default, the slider for altitude is set to "Surface". Seeing the pattern tallies with the flight path since the balloon heads South West first 
+![](assets/13_windy_surface.png)![](assets/14_windy_surface.png)
 7. We also know that after the burst it heads roughly North East. However, Windy cannot verify this because its maximum altitude is 13.5 km whereas the burst altitude is 20km. 
 
 # 4. 3D flight path  - Google Earth
@@ -87,11 +88,11 @@ Download Link to Google Earth Pro: https://www.google.com/earth/versions/#earth-
 **<u>Steps</u>**
 
 1. In Habhub, after the prediction is run, save the path as a KML file. This is found under Scenario information at the top right hand corner 
-   ![](assets/15_scenario.png)
+![](assets/15_scenario.png)
 2. Open Google Earth Pro and notice that the fie structure on the left 
-   ![](assets/16_GE_files.png)
+![](assets/16_GE_files.png)
 3. Locate the file in the file explorer and open it in Google Earth by dragging it in to the map UI. The cursor should say "Copy". Notice that the file structure has the flight path 
-   ![](assets/17_GE_files.png)
+![](assets/17_GE_files.png)
 4. This will open the flight path. It is advissable to use a mouse to rotate and view the path from different angles 
    ![](assets/18_GE_flight.png)
    - Left mouse click drags about that anchor point 
