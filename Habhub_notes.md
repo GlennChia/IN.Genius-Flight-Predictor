@@ -63,7 +63,7 @@ Note: Timing Considerations (The time is in UTC).
 
 Link: https://www.windy.com/
 
-Follow the link to go to a website that shows the wind directions at different altitudes. This will show where the balloon is expected to blow towards. From the flight path. we expect the wind to blow in a North-West direction.
+Follow the link to go to a website that shows the wind directions at different altitudes. This will show where the balloon is expected to blow towards. From the flight path. we expect the wind to blow in a North-West direction. In ASP time, windy is **refreshed at 0445 and 1745.**
 
 Steps
 
